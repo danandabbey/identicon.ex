@@ -6,7 +6,6 @@ defmodule Identicon do
     |> pick_color()
     |> build_grid()
     |> filter_odd_squares()
-    
 
   end
 
